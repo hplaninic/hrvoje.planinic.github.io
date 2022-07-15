@@ -33,7 +33,7 @@ Mes intérêts de recherche couvrent plusieurs sous-branches des probabilités a
 ## Assistanats de cours 
 
 - [Risk Analytics](https://hecnet.unil.ch/hec/syllabus/descriptif/2549) - septembre 2022 - à venir: UNIL, Master de Management, Spécialisation Business Analytics 
-- [Quantitative Methods for Management](https://hecnet.unil.ch/hec/syllabus/descriptif/2220) - septemnbre 2020 à aujourd'hui: UNIL, Master de Management, Spécialisation Business Analytics 
+- [Quantitative Methods for Management](https://hecnet.unil.ch/hec/syllabus/descriptif/2220) - septembre 2020 à aujourd'hui: UNIL, Master de Management, Spécialisation Business Analytics 
 - [Programming Tools in Data Science](https://hecnet.unil.ch/hec/syllabus/descriptif/2363?dyn_lang=fr) - septembre 2020 à février 2021: UNIL, Master de Management, Spécialisation Business Analytics 
 - [MATH447 Introduction to Stochastic Process](https://www.mcgill.ca/study/2021-2022/courses/math-447) - janvier 2020 à juin 2020: Université McGill, BSc Mathematics 
 - [MATH323 Probability](https://www.mcgill.ca/study/2021-2022/courses/math-323) - septembre 2019 à décembre 2019: Université McGill, plusieurs programmes de bachelor
