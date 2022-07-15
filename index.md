@@ -16,21 +16,32 @@ Mes intérêts de recherche couvrent plusieurs sous-branches des probabilités a
 
 ## Conférences et colloques 
 
-- [Heavy Tails, Long-Range Dependence, and Beyond - CIRM, Marseille, 4-8 July 2022](https://conferences.cirm-math.fr/2633.html): Présentation orale
-- [CUSO PhD Day - UNIL, Lausanne, 10 June 2022](https://statistique.cuso.ch/?id=2688&tx_displaycontroller[showUid]=6254): Organisateur et présentation orale 
-- [CUSO Winter School - Les Diablerets, 6-9 February 2022](https://statistique.cuso.ch/?id=2688&tx_displaycontroller[showUid]=6252): Participant 
-- [VALPRED 3 - Centre CNRS, Aussois, 4-7 October 2021](http://wintenberger.fr/VALPRED.html): Présentation orale 
-- [CUSO Summer School - Les Diablerets, 12-15 September 2021](https://statistique.cuso.ch/?id=2688&tx_displaycontroller[showUid]=5459): Participant 
-- [EVA 2021 - online, 28 June - 2 July 2021](https://www.maths.ed.ac.uk/school-of-mathematics/eva-2021/program): Présentation orale 
-- [CUSO Winter School - online, 8-10 February, 2021](https://statistique.cuso.ch/?id=2688&tx_displaycontroller[showUid]=5460): Participant 
+- [Heavy Tails, Long-Range Dependence, and Beyond](https://conferences.cirm-math.fr/2633.html) - CIRM, Marseille, 4-8 juillet 2022: Présentation orale
+- [CUSO PhD Day](https://statistique.cuso.ch/?id=2688&tx_displaycontroller[showUid]=6254)- UNIL, Lausanne, 10 juin 2022: Organisateur et présentation orale 
+- [CUSO Winter School](https://statistique.cuso.ch/?id=2688&tx_displaycontroller[showUid]=6252) - Les Diablerets, 6-9 février 2022: Participant 
+- [VALPRED 3](http://wintenberger.fr/VALPRED.html) - Centre CNRS, Aussois, 4-7 octobre 2021: Présentation orale 
+- [CUSO Summer School](https://statistique.cuso.ch/?id=2688&tx_displaycontroller[showUid]=5459) - Les Diablerets, 12-15 septembre 2021: Participant 
+- [EVA 2021](https://www.maths.ed.ac.uk/school-of-mathematics/eva-2021/program) - en ligne, 28 juin - 2 juillet 2021: Présentation orale 
+- [CUSO Winter School](https://statistique.cuso.ch/?id=2688&tx_displaycontroller[showUid]=5460) - en ligne, 8-10 février, 2021: Participant 
 
 ## Charges administratives et bénévolat académique
 
-- [Séminaire du Département des Opérations](https://www.unil.ch/do/fr/home.html): en charge du séminaire pour la partie statistique et probabilités appliquées, avec [Valérie Chavez-Demoulin](https://hecnet.unil.ch/hec/recherche/fiche?pnom=vchavez&dyn_lang=fr) et [Linda Mhalla](https://lindamhalla.netlify.app) de 2021 à aujourd'hui 
-- [Ecole doctorale en Statistique et Probabilités Appliquées (CUSO)](https://statistique.cuso.ch/accueil): Représentant des doctorant.e.s de l'Université de Lausanne 
-- [Association du Corps Intermédiaire et des doctorant.e.s de l'Université de Lausanne](https://wp.unil.ch/acidul/): Président et membre du comité, 2020-2021 
+- [Séminaire du Département des Opérations](https://www.unil.ch/do/fr/home.html) - juin 2021 à aujourd'hui: en charge du séminaire pour la partie statistique et probabilités appliquées, avec [Valérie Chavez-Demoulin](https://hecnet.unil.ch/hec/recherche/fiche?pnom=vchavez&dyn_lang=fr) et [Linda Mhalla](https://lindamhalla.netlify.app) 
+- [Ecole doctorale en Statistique et Probabilités Appliquées (CUSO)](https://statistique.cuso.ch/accueil) - septembre 2021 à aujourd'hui: Représentant des doctorant.e.s de l'Université de Lausanne 
+- [Association du Corps Intermédiaire et des doctorant.e.s de l'Université de Lausanne](https://wp.unil.ch/acidul/) - décembre 2020 à décembre 2021: Président et membre du comité
 
 ## Assistanats de cours 
+
+- [Risk Analytics](https://hecnet.unil.ch/hec/syllabus/descriptif/2549) - septembre 2022 - à venir: UNIL, Master de Management, Spécialisation Business Analytics 
+- [Quantitative Methods for Management](https://hecnet.unil.ch/hec/syllabus/descriptif/2220) - septemnbre 2020 à aujourd'hui: UNIL, Master de Management, Spécialisation Business Analytics 
+- [Programming Tools in Data Science](https://hecnet.unil.ch/hec/syllabus/descriptif/2363?dyn_lang=fr) - septembre 2020 à février 2021: UNIL, Master de Management, Spécialisation Business Analytics 
+- [MATH447 Introduction to Stochastic Process](https://www.mcgill.ca/study/2021-2022/courses/math-447) - janvier 2020 à juin 2020: Université McGill, BSc Mathematics 
+- [MATH323 Probability](https://www.mcgill.ca/study/2021-2022/courses/math-323) - septembre 2019 à décembre 2019: Université McGill, plusieurs programmes de bachelor
+- [MATH222 Calculus 3](https://www.mcgill.ca/study/2021-2022/courses/math-222) - septembre 2018 à juin 2019: Université McGill, plusieurs programmes de bachelor
+- [Data Science in Business Analytics](https://hecnet.unil.ch/hec/syllabus/descriptif/2284?dyn_lang=fr) - février 2018 à juin 2018: UNIL, Master de Management, Spécialisation Business Analytics 
+- [Forecasting](https://hecnet.unil.ch/hec/syllabus/descriptif/2362) - février 2018 à juin 2018: UNIL, Master de Management, Spécialisation Business Analytics 
+- [Machine Learning in Business Analytics](https://hecnet.unil.ch/hec/syllabus/descriptif/2600?dyn_lang=fr) - septembre 2017 à février 2018: UNIL, Master de Management, Spécialisation Business Analytics 
+
 
 ## Collègues et ami(e)s 
 
