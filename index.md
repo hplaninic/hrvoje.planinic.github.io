@@ -2,44 +2,44 @@
 
 Je suis doctorant à la fois au [Département des Opérations](https://www.unil.ch/do/fr/home.html) de [l'Université de Lausanne](https://www.unil.ch) et au [Laboratoire de Probabilités, Statistique et Modélisation](https://www.lpsm.paris) à [Sorbonne Université](https://www.sorbonne-universite.fr), où j'effectue ma thèse en cotutelle sous la direction de la Prof. [Valérie Chavez-Demoulin](https://hecnet.unil.ch/hec/recherche/fiche?pnom=vchavez&dyn_lang=fr) et du Prof. [Olivier Wintenberger](http://wintenberger.fr). J'ai entamé ma thèse en juillet 2020. 
 
-Avant cela, j'ai effectué, entre septembre 2018 et juin 2020, un master en mathématiques et statistique à [l'Université McGill](https://www.mcgill.ca/mathstat/) de Montréal. 
+Avant cela, j'ai effectué, entre septembre 2018 et juin 2020, un master en mathématiques et statistique à [l'Université McGill](https://www.mcgill.ca/mathstat/) de Montréal, sous la direction de la Prof. [Johanna Nešlehová](https://www.math.mcgill.ca/neslehova/). 
 
+## Intérêts de recherche 
 
+Mes intérêts de recherche couvrent plusieurs sous-branches des probabilités appliquées et des statistiques. En particulier: 
 
-## Welcome to GitHub Pages
+- Les processus ponctuels et leurs convergences 
+- La théorie des valeurs extrêmes
+- La théorie de la variation régulière 
+- Les processus de branchement 
+- Les déviations larges 
 
-You can use the [editor on GitHub](https://github.com/fbaeriswyl/fabienbaeriswyl.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Conférences et colloques 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [Heavy Tails, Long-Range Dependence, and Beyond - CIRM, Marseille, 4-8 July 2022](https://conferences.cirm-math.fr/2633.html): Présentation orale
+- [CUSO PhD Day - UNIL, Lausanne, 10 June, 2022](https://statistique.cuso.ch/?id=2688&tx_displaycontroller[showUid]=6254): Organisateur et présentation orale 
+- [CUSO Winter School - Les Diablerets, 6-9 February 2022](https://statistique.cuso.ch/?id=2688&tx_displaycontroller[showUid]=6252): Participant 
+- [VALPRED 3 - Centre CNRS, Aussois, 4-7 October 2021](http://wintenberger.fr/VALPRED.html): Présentation orale 
+- [CUSO Summer School - Les Diablerets, 12-15 September 2021](https://statistique.cuso.ch/?id=2688&tx_displaycontroller[showUid]=5459): Participant 
+- [EVA 2021 - online, 28 June - 2 July 2021](https://www.maths.ed.ac.uk/school-of-mathematics/eva-2021/program): Présentation orale 
+- [CUSO Winter School - online, 8-10 February, 2021](https://statistique.cuso.ch/?id=2688&tx_displaycontroller[showUid]=5460): Participant 
 
-### Markdown
+## Charges administratives et bénévolat académique
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [Séminaires du Département des Opérations](https://www.unil.ch/do/fr/home.html): en charge du séminaire pour la partie statistique et probabilités appliquées, avec [Valérie Chavez-Demoulin](https://hecnet.unil.ch/hec/recherche/fiche?pnom=vchavez&dyn_lang=fr) et [Linda Mhalla](https://lindamhalla.netlify.app) de 2021 à aujourd'hui 
+- [Ecole doctorale en Statistique et Probabilités Appliquées (CUSO)](https://statistique.cuso.ch/accueil): Représentant des doctorant.e.s de l'Université de Lausanne 
+- [Association du Corps Intermédiaire et des doctorant.e.s de l'Université de Lausanne](https://wp.unil.ch/acidul/): Président et membre du comité, 2020-2021 
 
-```markdown
-Syntax highlighted code block
+## Assistanats de cours 
 
-# Header 1
-## Header 2
-### Header 3
+## Collègues et ami(e)s 
 
-- Bulleted
-- List
+Parce que la recherche en mathématiques appliquées ne peut se faire sans le contact, la discussion et les bons moments partagés avec les collègues et ami(e)s, je liste ici quelques profils intéressants: 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fbaeriswyl/fabienbaeriswyl.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- [Maximilian Aigner](http://aignerstat.ch)
+- [Marc-Olivier Boldi](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1073453&LanCode=37&menu=coord)
+- [Gloria Buriticá](https://gburitica.github.io)
+- [Joseph de Vilmarest](https://josephdevilmarest.github.io)
+- [Linda Mhalla](https://lindamhalla.netlify.app)
+- [Hrvoje Planinić](https://www.pmf.unizg.hr/math/en/hrvoje.planinic)
+- [Charles Tillier](http://tillier.perso.math.cnrs.fr)
