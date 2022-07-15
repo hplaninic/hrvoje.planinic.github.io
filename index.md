@@ -17,7 +17,7 @@ Mes intérêts de recherche couvrent plusieurs sous-branches des probabilités a
 ## Conférences et colloques 
 
 - [Heavy Tails, Long-Range Dependence, and Beyond - CIRM, Marseille, 4-8 July 2022](https://conferences.cirm-math.fr/2633.html): Présentation orale
-- [CUSO PhD Day - UNIL, Lausanne, 10 June, 2022](https://statistique.cuso.ch/?id=2688&tx_displaycontroller[showUid]=6254): Organisateur et présentation orale 
+- [CUSO PhD Day - UNIL, Lausanne, 10 June 2022](https://statistique.cuso.ch/?id=2688&tx_displaycontroller[showUid]=6254): Organisateur et présentation orale 
 - [CUSO Winter School - Les Diablerets, 6-9 February 2022](https://statistique.cuso.ch/?id=2688&tx_displaycontroller[showUid]=6252): Participant 
 - [VALPRED 3 - Centre CNRS, Aussois, 4-7 October 2021](http://wintenberger.fr/VALPRED.html): Présentation orale 
 - [CUSO Summer School - Les Diablerets, 12-15 September 2021](https://statistique.cuso.ch/?id=2688&tx_displaycontroller[showUid]=5459): Participant 
@@ -26,7 +26,7 @@ Mes intérêts de recherche couvrent plusieurs sous-branches des probabilités a
 
 ## Charges administratives et bénévolat académique
 
-- [Séminaires du Département des Opérations](https://www.unil.ch/do/fr/home.html): en charge du séminaire pour la partie statistique et probabilités appliquées, avec [Valérie Chavez-Demoulin](https://hecnet.unil.ch/hec/recherche/fiche?pnom=vchavez&dyn_lang=fr) et [Linda Mhalla](https://lindamhalla.netlify.app) de 2021 à aujourd'hui 
+- [Séminaire du Département des Opérations](https://www.unil.ch/do/fr/home.html): en charge du séminaire pour la partie statistique et probabilités appliquées, avec [Valérie Chavez-Demoulin](https://hecnet.unil.ch/hec/recherche/fiche?pnom=vchavez&dyn_lang=fr) et [Linda Mhalla](https://lindamhalla.netlify.app) de 2021 à aujourd'hui 
 - [Ecole doctorale en Statistique et Probabilités Appliquées (CUSO)](https://statistique.cuso.ch/accueil): Représentant des doctorant.e.s de l'Université de Lausanne 
 - [Association du Corps Intermédiaire et des doctorant.e.s de l'Université de Lausanne](https://wp.unil.ch/acidul/): Président et membre du comité, 2020-2021 
 
