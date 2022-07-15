@@ -1,3 +1,5 @@
+# Fabien Baeriswyl
+
 ## Courte introduction 
 
 Je suis doctorant à la fois au [Département des Opérations](https://www.unil.ch/do/fr/home.html) de [l'Université de Lausanne](https://www.unil.ch) et au [Laboratoire de Probabilités, Statistique et Modélisation](https://www.lpsm.paris) à [Sorbonne Université](https://www.sorbonne-universite.fr), où j'effectue ma thèse en cotutelle sous la direction de la Prof. [Valérie Chavez-Demoulin](https://hecnet.unil.ch/hec/recherche/fiche?pnom=vchavez&dyn_lang=fr) et du Prof. [Olivier Wintenberger](http://wintenberger.fr). J'ai entamé ma thèse en juillet 2020. 
