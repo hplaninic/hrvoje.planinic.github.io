@@ -50,6 +50,7 @@ Mes intérêts de recherche couvrent plusieurs sous-branches des probabilités a
 Parce que la recherche en mathématiques appliquées ne peut se faire sans le contact, la discussion et les bons moments partagés avec les collègues et ami(e)s, je liste ici quelques profils intéressants: 
 
 - [Maximilian Aigner](http://aignerstat.ch)
+- [Ilia Azizi](https://iliaazizi.netlify.app) 
 - [Marc-Olivier Boldi](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1073453&LanCode=37&menu=coord)
 - [Gloria Buriticá](https://gburitica.github.io)
 - [Joseph de Vilmarest](https://josephdevilmarest.github.io)
