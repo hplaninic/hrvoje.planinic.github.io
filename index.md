@@ -54,6 +54,7 @@ Parce que la recherche en mathématiques appliquées ne peut se faire sans le co
 - [Marc-Olivier Boldi](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1073453&LanCode=37&menu=coord)
 - [Gloria Buriticá](https://gburitica.github.io)
 - [Joseph de Vilmarest](https://josephdevilmarest.github.io)
+- [Christian Mazza](https://www.sib.swiss/christian-mazza-group) 
 - [Linda Mhalla](https://lindamhalla.netlify.app)
 - [Hrvoje Planinić](https://www.pmf.unizg.hr/math/en/hrvoje.planinic)
 - [Charles Tillier](http://tillier.perso.math.cnrs.fr)
