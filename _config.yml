@@ -5,3 +5,6 @@ theme: jekyll-theme-minimal
 
 email: :email: fabien.baeriswyl at sorbonne-universite dot fr
 email: :email: fabien.baeriswyl at unil dot ch 
+
+plugins: 
+- jemoji
