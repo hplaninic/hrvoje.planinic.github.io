@@ -1,6 +1,6 @@
 # Fabien Baeriswyl
 
-[Cliquez ici pour la version française](https://fabienbaeriswyl.github.io)
+[Cliquez ici pour la version française :fr:](https://fabienbaeriswyl.github.io)
 
 ## Short introduction
 
