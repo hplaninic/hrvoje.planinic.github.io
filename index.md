@@ -1,6 +1,6 @@
 # Fabien Baeriswyl
 
-[Click here for the English version](https://fabienbaeriswyl.github.io/English)
+[Click here for the English :uk: version](https://fabienbaeriswyl.github.io/English)
 
 ## Courte introduction 
 
