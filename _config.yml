@@ -4,4 +4,5 @@ plugins:
 - jemoji
 theme: jekyll-theme-minimal
 author:
-  email: ":email: fabien.baeriswyl at sorbonne-universite dot fr" 
+  email: "fabien.baeriswyl at sorbonne-universite dot fr" 
+  email2: "fabien.baeriswyl at unil dot ch
