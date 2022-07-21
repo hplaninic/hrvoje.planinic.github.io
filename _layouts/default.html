@@ -24,11 +24,11 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         
         {% if site.author.email %}
-           <p>:email:{{ site.author.email}}</p>
+           <p>{{ :email: site.author.email}}</p>
         {% endif %}
         
         {% if site.author.email2 %}
-           <p>:email:{{ site.author.email2}}</p>
+           <p>{{ :email: site.author.email2}}</p>
         {% endif %} 
 
         {% if site.show_downloads %}
