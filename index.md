@@ -1,5 +1,7 @@
 # Fabien Baeriswyl
 
+[Cliquez ici pour la version anglaise](https://fabienbaeriswyl.github.io/English)
+
 ## Courte introduction 
 
 Je suis doctorant à la fois au [Département des Opérations](https://www.unil.ch/do/fr/home.html) de [l'Université de Lausanne](https://www.unil.ch) et au [Laboratoire de Probabilités, Statistique et Modélisation](https://www.lpsm.paris) à [Sorbonne Université](https://www.sorbonne-universite.fr), où j'effectue ma thèse en cotutelle sous la direction de la Prof. [Valérie Chavez-Demoulin](https://hecnet.unil.ch/hec/recherche/fiche?pnom=vchavez&dyn_lang=fr) et du Prof. [Olivier Wintenberger](http://wintenberger.fr). J'ai entamé ma thèse en juillet 2020. 
@@ -34,6 +36,8 @@ Mes intérêts de recherche couvrent plusieurs sous-branches des probabilités a
 
 ## Assistanats de cours 
 
+Au cours des dernières années, j'ai été assistant pour les cours suivants: 
+
 - [Risk Analytics](https://hecnet.unil.ch/hec/syllabus/descriptif/2549) - septembre 2022 - à venir: UNIL, Master de Management, Spécialisation Business Analytics 
 - [Quantitative Methods for Management](https://hecnet.unil.ch/hec/syllabus/descriptif/2220) - septembre 2020 à aujourd'hui: UNIL, Master de Management, Spécialisation Business Analytics 
 - [Programming Tools in Data Science](https://hecnet.unil.ch/hec/syllabus/descriptif/2363?dyn_lang=fr) - septembre 2020 à février 2021: UNIL, Master de Management, Spécialisation Business Analytics 
@@ -47,7 +51,7 @@ Mes intérêts de recherche couvrent plusieurs sous-branches des probabilités a
 
 ## Collègues et ami.e.s 
 
-Parce que la recherche en mathématiques appliquées ne peut se faire sans le contact, la discussion et les bons moments partagés avec les collègues et ami.e.s, je liste ici quelques profils intéressants: 
+Parce que la recherche en mathématiques appliquées ne peut se faire sans le contact, la discussion et les bons moments partagés avec les collègues et ami.e.s, je liste ici quelques profils intéressants avec qui j'aime à partager: 
 
 - [Maximilian Aigner](http://aignerstat.ch)
 - [Ilia Azizi](https://iliaazizi.netlify.app) 
