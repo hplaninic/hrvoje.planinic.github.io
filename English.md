@@ -4,7 +4,7 @@
 
 ## Short introduction
 
-I am a PhD candidate at the [Operations Department](https://www.unil.ch/do/fr/home.html) at [Université de Lausanne]((https://www.unil.ch) as well as at the [Laboratoire de Probabilités, Statistique et Modélisation](https://www.lpsm.paris) at [Sorbonne Université](https://www.sorbonne-universite.fr), where I am undertaking my thesis as a joint PhD under the supervision of Prof. [Valérie Chavez-Demoulin](https://hecnet.unil.ch/hec/recherche/fiche?pnom=vchavez&dyn_lang=en) and Prof. [Olivier Wintenberger](http://wintenberger.fr). I started my thesis in July 2020. 
+I am a PhD candidate at the [Operations Department](https://www.unil.ch/do/fr/home.html) at [Université de Lausanne](https://www.unil.ch) as well as at the [Laboratoire de Probabilités, Statistique et Modélisation](https://www.lpsm.paris) at [Sorbonne Université](https://www.sorbonne-universite.fr), where I am undertaking my thesis as a joint PhD under the supervision of Prof. [Valérie Chavez-Demoulin](https://hecnet.unil.ch/hec/recherche/fiche?pnom=vchavez&dyn_lang=en) and Prof. [Olivier Wintenberger](http://wintenberger.fr). I started my thesis in July 2020. 
 
 Prior to this, I undertook a Master in Mathematics and Statistics at [McGill University](https://www.mcgill.ca/mathstat/) in Montreal, under the supervision of Prof. [Johanna Nešlehová](https://www.math.mcgill.ca/neslehova/).
 
