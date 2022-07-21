@@ -3,3 +3,6 @@ logo: Pic-Up.png
 plugins: 
 - jemoji
 theme: jekyll-theme-minimal
+author:
+  email: :email: fabien.baeriswyl at sorbonne-universite dot fr 
+  email: :email: fabien.baeriswyl at unil dot ch
