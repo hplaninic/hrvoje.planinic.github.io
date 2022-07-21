@@ -41,9 +41,9 @@ Au cours des dernières années, j'ai été assistant pour les cours suivants:
 - [Risk Analytics](https://hecnet.unil.ch/hec/syllabus/descriptif/2549) - septembre 2022 - à venir: UNIL, Master de Management, Spécialisation Business Analytics 
 - [Quantitative Methods for Management](https://hecnet.unil.ch/hec/syllabus/descriptif/2220) - septembre 2020 à aujourd'hui: UNIL, Master de Management, Spécialisation Business Analytics 
 - [Programming Tools in Data Science](https://hecnet.unil.ch/hec/syllabus/descriptif/2363?dyn_lang=fr) - septembre 2020 à février 2021: UNIL, Master de Management, Spécialisation Business Analytics 
-- [MATH447 Introduction to Stochastic Processes](https://www.mcgill.ca/study/2021-2022/courses/math-447) - janvier 2020 à juin 2020: Université McGill, BSc Mathematics 
+- [MATH447 Introduction to Stochastic Processes](https://www.mcgill.ca/study/2021-2022/courses/math-447) - janvier 2020 à avril 2020: Université McGill, BSc Mathematics 
 - [MATH323 Probability](https://www.mcgill.ca/study/2021-2022/courses/math-323) - septembre 2019 à décembre 2019: Université McGill, plusieurs programmes de bachelor
-- [MATH222 Calculus 3](https://www.mcgill.ca/study/2021-2022/courses/math-222) - septembre 2018 à juin 2019: Université McGill, plusieurs programmes de bachelor
+- [MATH222 Calculus 3](https://www.mcgill.ca/study/2021-2022/courses/math-222) - septembre 2018 à avril 2019: Université McGill, plusieurs programmes de bachelor
 - [Data Science in Business Analytics](https://hecnet.unil.ch/hec/syllabus/descriptif/2284?dyn_lang=fr) - février 2018 à juin 2018: UNIL, Master de Management, Spécialisation Business Analytics 
 - [Forecasting](https://hecnet.unil.ch/hec/syllabus/descriptif/2362) - février 2018 à juin 2018: UNIL, Master de Management, Spécialisation Business Analytics 
 - [Machine Learning in Business Analytics](https://hecnet.unil.ch/hec/syllabus/descriptif/2600?dyn_lang=fr) - septembre 2017 à février 2018: UNIL, Master de Management, Spécialisation Business Analytics 
@@ -51,7 +51,7 @@ Au cours des dernières années, j'ai été assistant pour les cours suivants:
 
 ## Collègues et ami.e.s 
 
-Parce que la recherche en mathématiques appliquées ne peut se faire sans le contact, la discussion et les bons moments partagés avec les collègues et ami.e.s, je liste ici quelques profils intéressants avec qui j'aime à partager: 
+Parce que la recherche en mathématiques appliquées ne peut se faire sans le contact, la discussion et les bons moments partagés avec les collègues et ami.e.s, je liste ici quelques profils intéressants avec qui j'aime toujours discuter et qui ont grandement contribué tout au long de mon parcours: 
 
 - [Maximilian Aigner](http://aignerstat.ch)
 - [Ilia Azizi](https://iliaazizi.netlify.app) 
