@@ -3,5 +3,7 @@ logo: Pic-Up.png
 plugins: 
 - jemoji
 theme: jekyll-theme-minimal
+staticman:
+  allowedFields          : ['name', 'email', 'url', 'message']
 author:
   email: "fabien.baeriswyl at sorbonne-universite dot fr"
