@@ -1,8 +1,8 @@
 title: ----------------
 logo: Pic-Up.png
-show_downloads: false
-theme: jekyll-theme-minimal
-email: :email: fabien.baeriswyl at sorbonne-universite dot fr
-email: :email: fabien.baeriswyl at unil dot ch 
+social-network-links:
+  email: :email: fabien.baeriswyl at sorbonne-universite dot fr
+  email: :email: fabien.baeriswyl at unil dot ch 
 plugins: 
 - jemoji
+theme: jekyll-theme-minimal
