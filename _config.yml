@@ -1,7 +1,5 @@
 title: ----------------
 logo: Pic-Up.png
-social-network-links:
-  email: :email: "fabien.baeriswyl at sorbonne-universite dot fr"
 plugins: 
 - jemoji
 theme: jekyll-theme-minimal
