@@ -65,6 +65,7 @@ Parce que la recherche en mathématiques appliquées ne peut se faire sans le co
 - [Joseph de Vilmarest](https://josephdevilmarest.github.io)
 - [Louis Faul](https://www.unifr.ch/math/fr/department/staff/list/people/346786/46dd1)
 - [Céline Kerriou](https://sites.google.com/view/ckerriou/)
+- [(Terry) Yu Luo](https://www.imperial.ac.uk/people/yu.luo)
 - [Christian Mazza](https://www.sib.swiss/christian-mazza-group) 
 - [Linda Mhalla](https://lindamhalla.netlify.app)
 - [Hrvoje Planinić](https://www.pmf.unizg.hr/math/en/hrvoje.planinic)
