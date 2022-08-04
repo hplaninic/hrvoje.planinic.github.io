@@ -1,7 +1,9 @@
 title: ----------------
 logo: Pic-Up.png
+url: "https://fabienbaeriswyl.github.io" 
 plugins: 
 - jemoji
+- jekyll-sitemap
 theme: jekyll-theme-minimal
 author:
   email: ":email: fabien.baeriswyl at sorbonne-universite dot fr" 
