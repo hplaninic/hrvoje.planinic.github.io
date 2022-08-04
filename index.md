@@ -34,7 +34,7 @@ Mes intérêts de recherche couvrent plusieurs sous-branches des probabilités a
 
 ## Charges administratives et bénévolat académique
 
-- [Séminaire du Département des Opérations](https://www.unil.ch/do/fr/home.html) - juin 2021 à aujourd'hui: en charge du séminaire pour la partie statistique et probabilités appliquées, avec [Valérie Chavez-Demoulin](https://hecnet.unil.ch/hec/recherche/fiche?pnom=vchavez&dyn_lang=fr) et [Linda Mhalla](https://lindamhalla.netlify.app) 
+- [Séminaire du Département des Opérations](https://do-seminar-unil.github.io) - juin 2021 à aujourd'hui: en charge du séminaire pour la partie statistique et probabilités appliquées, avec [Valérie Chavez-Demoulin](https://hecnet.unil.ch/hec/recherche/fiche?pnom=vchavez&dyn_lang=fr) et [Linda Mhalla](https://lindamhalla.netlify.app) 
 - [Ecole doctorale en Statistique et Probabilités Appliquées (CUSO)](https://statistique.cuso.ch/accueil) - septembre 2021 à aujourd'hui: Représentant des doctorant.e.s de l'Université de Lausanne 
 - [Association du Corps Intermédiaire et des doctorant.e.s de l'Université de Lausanne](https://wp.unil.ch/acidul/) - décembre 2020 à décembre 2021: Président et membre du comité
 
