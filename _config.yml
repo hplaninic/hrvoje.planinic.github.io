@@ -1,7 +1,6 @@
 title: ----------------
 logo: Pic-Up.png
 url: "https://fabienbaeriswyl.github.io"
-baseurl: /fabienbaeriswyl
 plugins: 
   - jemoji
   - jekyll-sitemap
