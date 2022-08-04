@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Fabien Baeriswyl
 
 [:uk: Click here for the English version :uk:](https://fabienbaeriswyl.github.io/en)
