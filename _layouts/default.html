@@ -35,7 +35,13 @@
         
         {% if site.author.email2 %}
         <a href="mailto:{{ site.author.email2 | encode_email }}" title="Contactez-moi"> <i class="fa fa-envelope-o" aria-hidden="true"></i> Mail (Université de Lausanne)</a>
-        {% endif %} 
+        {% endif %}
+        
+        <br>
+        
+        {% if site.author.orcid %}
+        <a href="{{ site.author.orcid | absolute_url }}" title="ORCID"> <i class="fa fa-envelope-o" aria-hidden="true"></i> ORCID</a>
+        {% endif %}
 
         {% if site.show_downloads %}
         <ul class="downloads">
