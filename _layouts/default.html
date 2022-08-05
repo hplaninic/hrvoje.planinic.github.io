@@ -34,7 +34,7 @@
         <br>
         
         {% if site.author.email2 %}
-        <a href="mailto:{{ site.author.email2 | encode_email }}" title="Contactez-moi"> :email: Mail (Université de Lausanne)</a>
+        <a href="mailto:{{ site.author.email2 | encode_email }}" title="Contactez-moi"> <i class="fa fa-envelope-o" aria-hidden="true"></i> Mail (Université de Lausanne)</a>
         {% endif %} 
 
         {% if site.show_downloads %}
