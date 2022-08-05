@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Fabien Baeriswyl
+# Fabien Baeriswyl - page personnelle 
 
 [:uk: Click here for the English version :uk:](https://fabienbaeriswyl.github.io/en)
 
