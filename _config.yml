@@ -3,12 +3,12 @@ logo: Pic-Up.png
 url: "https://fabienbaeriswyl.github.io"
 description-fr: "Bienvenue sur ma page personnelle! Vous trouverez ci-dessous mes informations de contact ainsi que mon lien ORCID et, sur la page déroulante à droite, des informations pertinentes à mon sujet." 
 description-en: "Welcome to my homepage! You will find below information to contact me and/or retrieve my ORCID publications and, on the right panel, some relevant information about myself."
-plugins: 
-  - jemoji
-  - jekyll-sitemap
 theme: jekyll-theme-minimal
 author:
   email: "fabien.baeriswyl@sorbonne-universite.fr"
   email2: "fabien.baeriswyl@unil.ch"
 gems:
   - jekyll-email-protect
+plugins:
+  - jemoji
+
