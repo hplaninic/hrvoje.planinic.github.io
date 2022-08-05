@@ -259,6 +259,7 @@ DEPENDENCIES
   github-pages
   jekyll-email-protect
   jekyll-sitemap
+  jemoji
 
 BUNDLED WITH
    2.3.7
