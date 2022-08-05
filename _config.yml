@@ -9,6 +9,5 @@ author:
   email2: "fabien.baeriswyl@unil.ch"
 gems:
   - jekyll-email-protect
-plugins:
   - jemoji
 
