@@ -24,11 +24,11 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         
         {% if site.author.email %}
-        <a href="mailto:{{ site.email | encode_email }}" title="Contactez-moi">Mail (Sorbonne-Université)</a>
+        <a href="mailto:{{ site.author.email | encode_email }}" title="Contactez-moi">Mail (Sorbonne-Université)</a>
         {% endif %}
         
         {% if site.author.email2 %}
-        <a href="mailto:{{ site.email | encode_email }}" title="Contactez-moi">Mail (Université de Lausanne)</a>
+        <a href="mailto:{{ site.author.email2 | encode_email }}" title="Contactez-moi">Mail (Université de Lausanne)</a>
         {% endif %} 
 
         {% if site.show_downloads %}
