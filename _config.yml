@@ -8,5 +8,7 @@ plugins:
   - jekyll-sitemap
 theme: jekyll-theme-minimal
 author:
-  email: ":email: fabien.baeriswyl at sorbonne-universite dot fr" 
-  email2: ":email: fabien.baeriswyl at unil dot ch"
+  email: "fabien.baeriswyl@sorbonne-universite.fr"
+  email2: "fabien.baeriswyl@unil.ch"
+gems:
+  - jekyll-email-protect
