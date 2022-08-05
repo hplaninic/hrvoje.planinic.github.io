@@ -25,7 +25,9 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         
         {% if site.author.email %}
-        <a href="mailto:{{ site.author.email | encode_email }}" title="Contactez-moi"> <i class="fas fa-envelope" aria-hidden="true"></i> Mail (Sorbonne-Université)
+        <a href="mailto:{{ site.author.email | encode_email }}" title="Contactez-moi">
+        <i class="fas fa-envelope" aria-hidden="true"></i>
+        Mail (Sorbonne-Université)
         </a>
         {% endif %}
         
