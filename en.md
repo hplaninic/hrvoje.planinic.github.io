@@ -34,6 +34,7 @@ My research interests cover multiple subdomains of applied probability and stati
 
 ## Administrative duties and academic volunteering 
 
+- I served as a reviewer for: [Applied Probability Trust](https://www.cambridge.org/core/societies/applied-probability-trust) 
 - [Seminar of the Operations Department](https://do-seminar-unil.github.io) - June 2021 - today: in charge of the seminar for the applied probability and statistics side, with [Valérie Chavez-Demoulin](https://hecnet.unil.ch/hec/recherche/fiche?pnom=vchavez&dyn_lang=fr) and [Linda Mhalla](https://lindamhalla.netlify.app) 
 - [CUSO Doctoral School in Statistics and Applied Probability](https://statistique.cuso.ch/accueil) - September 2021 - today: Representative of the PhD students to the Doctoral School committee 
 - [Association du Corps Intermédiaire et des doctorant.e.s de l'Université de Lausanne](https://wp.unil.ch/acidul/) - December 2020 - December 2021: President and member of the committee
