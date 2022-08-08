@@ -11,6 +11,7 @@
     <link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.no-icons.min.css" rel="stylesheet">
     <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
     <script src="https://kit.fontawesome.com/bba2550381.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="/path/to/folder/css/academicons.min.css"/>
 
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
@@ -46,6 +47,13 @@
         {% if site.author.orcid %}
         <a href="{{ site.author.orcid | absolute_url }}" title="ORCID">
             <i class="fa-brands fa-orcid"></i>
+            ORCID
+        </a>
+        {% endif %}
+        
+        {% if site.author.googlescholar %}
+        <a href="{{ site.author.scholar | absolute_url }}" title="Google Scholar">
+            <i class="ai ai-google-scholar-square ai-3x"></i>
             ORCID
         </a>
         {% endif %}

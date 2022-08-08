@@ -7,7 +7,8 @@ theme: jekyll-theme-minimal
 author:
   email: "fabien.baeriswyl@sorbonne-universite.fr"
   email2: "fabien.baeriswyl@unil.ch"
-  orcid: "https://orcid.org/0000-0001-5429-7303" 
+  orcid: "https://orcid.org/0000-0001-5429-7303"
+  googlescholar: "https://scholar.google.com/citations?user=xSfL1WQAAAAJ&hl=fr"
 gems:
   - jekyll-email-protect
   - jemoji
