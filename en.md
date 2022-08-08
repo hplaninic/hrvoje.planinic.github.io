@@ -2,17 +2,17 @@
 layout: default
 ---
 
-# Fabien Baeriswyl - homepage
+## Fabien Baeriswyl - homepage
 
 [:fr: Cliquez ici pour la version française :fr:](https://fabienbaeriswyl.github.io)
 
-## Short introduction
+### Short introduction
 
 I am a PhD candidate at the [Operations Department](https://www.unil.ch/do/fr/home.html) at [Université de Lausanne](https://www.unil.ch) as well as at the [Laboratoire de Probabilités, Statistique et Modélisation](https://www.lpsm.paris) at [Sorbonne Université](https://www.sorbonne-universite.fr), where I am undertaking my thesis as a joint PhD under the supervision of Prof. [Valérie Chavez-Demoulin](https://hecnet.unil.ch/hec/recherche/fiche?pnom=vchavez&dyn_lang=en) and Prof. [Olivier Wintenberger](http://wintenberger.fr). I started my thesis in July 2020. 
 
 Prior to this, I undertook a Master in Mathematics and Statistics at [McGill University](https://www.mcgill.ca/mathstat/) in Montreal, under the supervision of Prof. [Johanna Nešlehová](https://www.math.mcgill.ca/neslehova/).
 
-## Research interests 
+### Research interests 
 
 My research interests cover multiple subdomains of applied probability and statistics. In particular: 
 
@@ -22,7 +22,7 @@ My research interests cover multiple subdomains of applied probability and stati
 - Branching processes
 - Large deviations
 
-## Conferences and workshops  
+### Conferences and workshops  
 
 - [Heavy Tails, Long-Range Dependence, and Beyond](https://conferences.cirm-math.fr/2633.html) - CIRM, Marseille, 4-8 July 2022: Oral presentation
 - [CUSO PhD Day](https://statistique.cuso.ch/?id=2688&tx_displaycontroller[showUid]=6254)- UNIL, Lausanne, 10 June 2022: Organiser and oral presentation
@@ -32,14 +32,14 @@ My research interests cover multiple subdomains of applied probability and stati
 - [EVA 2021](https://www.maths.ed.ac.uk/school-of-mathematics/eva-2021/program) - online, 28 June - 2 July 2021: Oral presentation 
 - [CUSO Winter School](https://statistique.cuso.ch/?id=2688&tx_displaycontroller[showUid]=5460) - online, 8-10 February, 2021: Participant 
 
-## Administrative duties and academic volunteering 
+### Administrative duties and academic volunteering 
 
 - I served as a reviewer for: [Applied Probability Trust](https://www.cambridge.org/core/societies/applied-probability-trust) 
 - [Seminar of the Operations Department](https://do-seminar-unil.github.io) - June 2021 - today: in charge of the seminar for the applied probability and statistics side, with [Valérie Chavez-Demoulin](https://hecnet.unil.ch/hec/recherche/fiche?pnom=vchavez&dyn_lang=fr) and [Linda Mhalla](https://lindamhalla.netlify.app) 
 - [CUSO Doctoral School in Statistics and Applied Probability](https://statistique.cuso.ch/accueil) - September 2021 - today: Representative of the PhD students to the Doctoral School committee 
 - [Association du Corps Intermédiaire et des doctorant.e.s de l'Université de Lausanne](https://wp.unil.ch/acidul/) - December 2020 - December 2021: President and member of the committee
 
-## Teaching Assistant duties
+### Teaching Assistant duties
 
 I am and have been Teaching Assistant for the following courses over the last few years: 
 
@@ -54,7 +54,7 @@ I am and have been Teaching Assistant for the following courses over the last fe
 - [Machine Learning in Business Analytics](https://hecnet.unil.ch/hec/syllabus/descriptif/2600?dyn_lang=fr) - September 2017 - February 2018: UNIL, MSc in Management, Business Analytics track
 
 
-## Colleagues and friends 
+### Colleagues and friends 
 
 Because research in applied mathematics cannot be thought of without interactions, discussions and great moments shared with colleagues and friends, I list below some interesting profiles I encountered and who contributed to either (re)define my interests, understand and put into perspectives some concepts or simply helped me to evolve along the way: 
 
