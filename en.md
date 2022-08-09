@@ -4,7 +4,7 @@ layout: default-en
 
 ## Fabien Baeriswyl - homepage
 
-[:fr: Cliquez ici pour la version française :fr:](https://fabienbaeriswyl.github.io)
+[:fr: Cliquez ici pour la version française :fr:](https://fabienbaeriswyl.github.io/index)
 
 ### Short introduction
 
