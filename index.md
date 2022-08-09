@@ -1,6 +1,5 @@
 ---
 layout: default
-base: https://fabienbaeriswyl.github.io/index
 ---
 
 ## Fabien Baeriswyl - page personnelle 
