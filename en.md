@@ -14,8 +14,6 @@ Prior to this, I undertook a Master in Mathematics and Statistics at [McGill Uni
 
 ### Research interests 
 
-My research interests cover multiple subdomains of applied probability and statistics. In particular: 
-
 - Point processes and their convergence
 - Extreme Value Theory
 - Regular variation 
