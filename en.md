@@ -4,6 +4,8 @@ layout: default-en
 
 ## Fabien Baeriswyl - homepage
 
+<style>body {text-align: justify}</style>
+
 [:fr: Cliquez ici pour la version française :fr:](https://fabienbaeriswyl.github.io/index)
 
 ### Short introduction
