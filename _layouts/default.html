@@ -32,7 +32,7 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p>{{ site.description-fr | default: site.github.project_tagline }}</p>
+        <p align="justify">{{ site.description-fr | default: site.github.project_tagline }}</p>
         
         {% if site.author.email %}
         <a href="mailto:{{ site.author.email | encode_email }}" title="Contactez-moi">
