@@ -14,8 +14,6 @@ Avant cela, j'ai effectué, entre septembre 2018 et juin 2020, un master en math
 
 ### Intérêts de recherche 
 
-Mes intérêts de recherche couvrent plusieurs sous-branches des probabilités appliquées et des statistiques. En particulier: 
-
 - Les processus ponctuels et leurs convergences 
 - La théorie des valeurs extrêmes
 - La théorie de la variation régulière 

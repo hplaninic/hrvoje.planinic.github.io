@@ -1,8 +1,9 @@
 title: Fabien Baeriswyl
 logo: Pic-Up.png
 url: "https://fabienbaeriswyl.github.io"
-description-fr: "Bienvenue sur ma page personnelle! Vous trouverez ci-dessous mes informations de contact ainsi que mon lien ORCID et, sur la page déroulante à droite, des informations pertinentes à mon sujet." 
-description-en: "Welcome to my homepage! You will find below information to contact me and/or retrieve my ORCID publications and, on the right panel, some relevant information about myself."
+description-fr: "Bienvenue sur ma page personnelle! Je suis actuellement en thèse entre Lausanne et Paris, dans des domaines qui se situent entre les probabilités appliquées et la statistique entre Lausanne et Paris. Je m'intéresse également aux applications climatiques et actuarielles. Vous trouverez ci-dessous mes informations de contact et, sur le menu déroulant à droite, de plus amples informations à mon propos.
+  "
+description-en: "Welcome to my homepage! I am currently doing my thesis between Lausanne and Paris, in domains at the intersection between applied probability and statistics. I am also interested in climate as well as actuarial applications. You will find below contact information and, on the right panel, more information about myself. "
 theme: jekyll-theme-minimal
 author:
   email: "fabien.baeriswyl@sorbonne-universite.fr"
