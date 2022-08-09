@@ -2,9 +2,9 @@
 layout: default
 ---
 
-<style>body {text-align: justify}</style>
-
 ## Fabien Baeriswyl - page personnelle 
+
+<style>body {text-align: justify}</style>
 
 [:uk: Click here for the English version :uk:](https://fabienbaeriswyl.github.io/en)
 
