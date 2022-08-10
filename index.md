@@ -1,5 +1,6 @@
 ---
 layout: default
+url: https://www.fabienbaeriswyl.fr
 ---
 
 ## Fabien Baeriswyl - page personnelle 
