@@ -1,5 +1,6 @@
 ---
 layout: default-en
+tags: fabien baeriswyl, homepage, probability, research, maths
 ---
 
 ## Fabien Baeriswyl - homepage
