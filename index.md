@@ -1,6 +1,6 @@
 ---
 layout: default
-tags: fabien baeriswyl, page personnelle, probabilités, recherche, mathématiques
+tags: [fabien baeriswyl, page personnelle, probabilités, recherche, maths, mathématiques]
 ---
 
 ## Fabien Baeriswyl - page personnelle 
