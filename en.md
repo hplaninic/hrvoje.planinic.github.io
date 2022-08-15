@@ -1,6 +1,7 @@
 ---
 layout: default-en
 tags: [fabien baeriswyl, homepage, probability, research, maths, mathematics]
+permalink: /en
 ---
 
 ## Fabien Baeriswyl - homepage
