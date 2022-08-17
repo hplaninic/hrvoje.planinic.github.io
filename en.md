@@ -7,7 +7,7 @@ tags: [fabien baeriswyl, homepage, probability, research, maths, mathematics]
 
 <style>body {text-align: justify}</style>
 
-[:fr: Cliquez ici pour la version française :fr:](https://fabienbaeriswyl.github.io/index)
+[:fr: Cliquez ici pour la version française :fr:](https://fabienbaeriswyl.github.io)
 
 ### Short introduction
 
