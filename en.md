@@ -18,7 +18,7 @@ Prior to this, I undertook a Master in Mathematics and Statistics at [McGill Uni
 ### Research interests 
 
 - Point processes and their convergence
-- Extreme Value Theory
+- Extreme value theory
 - Regular variation 
 - Branching processes
 - Large deviations
