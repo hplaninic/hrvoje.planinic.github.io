@@ -1,4 +1,4 @@
----
+ope---
 layout: default
 tags: [fabien baeriswyl, page personnelle, probabilités, recherche, maths, mathématiques]
 ---
@@ -22,6 +22,12 @@ Avant cela, j'ai effectué, entre septembre 2018 et juin 2020, un master en math
 - La théorie de la variation régulière 
 - Les processus de branchement 
 - Les déviations larges 
+
+### Publications et projets en cours
+
+- ___Multivariate regular variation transfer in some cluster processes functionals___ avec [Valérie Chavez-Demoulin](https://hecnet.unil.ch/hec/recherche/fiche?pnom=vchavez&dyn_lang=en) and [Olivier Wintenberger](http://wintenberger.fr)
+- ___Modelling of heatwaves and dependence assessment___ (mémoire de master, sous la supervision de [Johanna Nešlehová](https://www.math.mcgill.ca/neslehova/)) 
+
 
 ### Conférences et colloques 
 

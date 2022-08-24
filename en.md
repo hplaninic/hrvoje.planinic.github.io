@@ -23,6 +23,11 @@ Prior to this, I undertook a Master in Mathematics and Statistics at [McGill Uni
 - Branching processes
 - Large deviations
 
+### Publications and ongoing projects
+
+- ___Multivariate regular variation transfer in some cluster processes functionals___ with [Valérie Chavez-Demoulin](https://hecnet.unil.ch/hec/recherche/fiche?pnom=vchavez&dyn_lang=en) and [Olivier Wintenberger](http://wintenberger.fr)
+- ___Modelling of heatwaves and dependence assessment___ (Master thesis, under the supervision of [Johanna Nešlehová](https://www.math.mcgill.ca/neslehova/)) 
+
 ### Conferences and workshops  
 
 - [Heavy Tails, Long-Range Dependence, and Beyond](https://conferences.cirm-math.fr/2633.html) - CIRM, Marseille, 4-8 July 2022: Oral presentation
