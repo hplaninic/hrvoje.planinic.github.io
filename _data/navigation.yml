@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "Publications"
+    url: /publi/
+  - title: "Recherche"
+    url: /conf/
+  - title: "A propos/About"
+    url: /about/
+  - title: "Collègues et liens/ Colleagues and links"
+    url: /collegues/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/

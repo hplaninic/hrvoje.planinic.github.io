@@ -1,81 +1,41 @@
-<!DOCTYPE html>
-<html lang="{{ site.lang | default: "fr-FR" }}">
+---
+---
+
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
   <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-{% seo %}
-    <link rel="canonical" href="https://www.fabienbaeriswyl.fr">
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-    <link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.no-icons.min.css" rel="stylesheet">
-    <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
-    <script src="https://kit.fontawesome.com/bba2550381.js" crossorigin="anonymous"></script>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
-
-    
-    <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
-    {% include head-custom.html %}
+    {% include head.html %}
+    {% include head/custom.html %}
   </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
+  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
+    {% include_cached skip-links.html %}
+    {% include_cached masthead.html %}
 
-        <p align="justify">{{ site.description-fr | default: site.github.project_tagline }}</p>
-        
-        {% if site.author.email %}
-        <a href="mailto:{{ site.author.email | encode_email }}" title="Contactez-moi">
-        <i class="fa fa-envelope-o" aria-hidden="true"></i>
-        Mail (Sorbonne Université)
-        </a>
-        {% endif %}
-        
-        <br>
-        
-        {% if site.author.email2 %}
-        <a href="mailto:{{ site.author.email2 | encode_email }}" title="Contactez-moi"> <i class="fa fa-envelope-o" aria-hidden="true"></i> Mail (Université de Lausanne)</a>
-        {% endif %}
-        
-        <br>
-        
-        {% if site.author.orcid %}
-        <a href="{{ site.author.orcid | absolute_url }}" title="ORCID">
-            <i class="fa-brands fa-orcid"></i>
-            ORCID
-        </a>
-        {% endif %}
-        
-        <br>
-        
-        {% if site.author.googlescholar %}
-        <a href="{{ site.author.googlescholar | absolute_url }}" title="Google Scholar">
-            <i class="ai ai-google-scholar-square"></i>
-            Google Scholar
-        </a>
-        {% endif %}
-
-        {% if site.show_downloads %}
-        <ul class="downloads">
-          <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
-          <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
-          <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
-        </ul>
-        {% endif %}
-      </header>
-      <section>
-        
-        {{ content }}
-
-      </section>
+    <div class="initial-content">
+      {{ content }}
     </div>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+
+    {% if site.search == true %}
+      <div class="search-content">
+        {% include_cached search/search_form.html %}
+      </div>
+    {% endif %}
+
+    <div id="footer" class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
+        {% include_cached footer.html %}
+      </footer>
+    </div>
+
+    {% include scripts.html %}
+
   </body>
 </html>
