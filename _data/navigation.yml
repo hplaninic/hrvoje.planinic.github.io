@@ -2,7 +2,7 @@
 main:
   - title: "Publications"
     url: /publi/
-  - title: "Recherche"
+  - title: "Communications"
     url: /conf/
   - title: "A propos/About"
     url: /apropos/
