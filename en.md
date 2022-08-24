@@ -25,8 +25,8 @@ Prior to this, I undertook a Master in Mathematics and Statistics at [McGill Uni
 
 ### Publications and ongoing projects
 
-- ___Multivariate regular variation transfer in some cluster processes functionals___ with [Valérie Chavez-Demoulin](https://hecnet.unil.ch/hec/recherche/fiche?pnom=vchavez&dyn_lang=en) and [Olivier Wintenberger](http://wintenberger.fr)
-- ___Modelling of heatwaves and dependence assessment___ (Master thesis, under the supervision of [Johanna Nešlehová](https://www.math.mcgill.ca/neslehova/)) 
+- _Multivariate regular variation transfer in some cluster processes functionals_ (ongoing project) with [Valérie Chavez-Demoulin](https://hecnet.unil.ch/hec/recherche/fiche?pnom=vchavez&dyn_lang=en) and [Olivier Wintenberger](http://wintenberger.fr)
+- _Modelling of heatwaves and dependence assessment_ (2020) (Master thesis, under the supervision of [Johanna Nešlehová](https://www.math.mcgill.ca/neslehova/)) 
 
 ### Conferences and workshops  
 
