@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "Ami.e.s, collègues et liens"
-peramlink: /collegues/
+permalink: /collegues/
 ---
 
 [:uk: Click here for the page in English](https://fabienbaeriswyl.fr/colleagues)
