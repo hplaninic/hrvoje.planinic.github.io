@@ -5,7 +5,7 @@ permalink: /apropos/
 author_profile: true
 ---
 
-[:en: Click here for the page in English](https://fabienbaeriswyl.fr/about)
+[:uk: Click here for the page in English](https://fabienbaeriswyl.fr/about)
 
 ### Charges administratives et bénévolat académique
 
