@@ -6,7 +6,7 @@ main:
     url: /conf/
   - title: "A propos/About"
     url: /about/
-  - title: "Collègues et liens/ Colleagues and links"
+  - title: "Collègues, liens, divers"
     url: /collegues/
   # - title: "Sample Collections"
   #   url: /collection-archive/
