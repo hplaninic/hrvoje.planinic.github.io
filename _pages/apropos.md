@@ -1,11 +1,11 @@
 ---
 layout: home
 title: "A propos de moi" 
-permalink: /about/
+permalink: /apropos/
 author_profile: true
 ---
 
-[Click here for the page in English](https://fabienbaeriswyl.fr/test.github.io/about-en)
+[:en: Click here for the page in English](https://fabienbaeriswyl.fr/about)
 
 ### Charges administratives et bénévolat académique
 

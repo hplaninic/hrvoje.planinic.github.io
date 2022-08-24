@@ -5,7 +5,7 @@ permalink: /conf-en/
 author_profile: true
 ---
 
-[Cliquez ici pour la page en français](https://fabienbaeriswyl.fr/test.github.io/conf/)
+[:fr: Cliquez ici pour la page en français](https://fabienbaeriswyl.fr/conf/)
 
 ### Conferences and workshops  
 

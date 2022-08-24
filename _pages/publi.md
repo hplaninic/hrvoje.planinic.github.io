@@ -5,7 +5,7 @@ permalink: /publi/
 author_profile: true
 ---
 
-[Click here for the page in English](https://fabienbaeriswyl.fr/test.github.io/publi-en)
+[:uk: Click here for the page in English](https://fabienbaeriswyl.fr/publi-en)
 
 ### Intérêts de recherche 
 

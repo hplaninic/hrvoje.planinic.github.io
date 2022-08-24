@@ -4,7 +4,7 @@ title: "Colleagues, friends and links"
 permalink: /colleagues/
 ---
 
-[Cliquez ici pour la page en français](https://fabienbaeriswyl.fr/test.github.io/collegues)
+[:fr: Cliquez ici pour la page en français](https://fabienbaeriswyl.fr/collegues)
 
 ### Colleagues and friends 
 

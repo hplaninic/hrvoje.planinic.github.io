@@ -4,7 +4,7 @@ title: "Ami.e.s, collègues et liens"
 peramlink: /collegues/
 ---
 
-[Click here for the page in English](https://fabienbaeriswyl.fr/test.github.io/colleagues)
+[:uk: Click here for the page in English](https://fabienbaeriswyl.fr/colleagues)
 
 ### Ami.e.s et collègues
 

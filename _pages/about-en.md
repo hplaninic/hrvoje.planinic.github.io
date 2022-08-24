@@ -1,11 +1,11 @@
 ---
 layout: home
 title: "About me" 
-permalink: /about-en/
+permalink: /about/
 author_profile: true
 ---
 
-[Cliquez ici pour la page en français](https://fabienbaeriswyl.fr/test.github.io/about)
+[:fr: Cliquez ici pour la page en français](https://fabienbaeriswyl.fr/apropos)
 
 ### Administrative duties and academic volunteering 
 
