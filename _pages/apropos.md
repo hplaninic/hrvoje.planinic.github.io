@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 [:uk: Click here for the page in English](https://fabienbaeriswyl.fr/about)
+<style> 
 
 ### Charges administratives et bénévolat académique 
 
@@ -28,4 +29,4 @@ Au cours des dernières années, j'ai été assistant pour les cours suivants:
 - [Forecasting](https://hecnet.unil.ch/hec/syllabus/descriptif/2362) - février 2018 à juin 2018: UNIL, MSc en Management, Spécialisation Business Analytics 
 - [Machine Learning in Business Analytics](https://hecnet.unil.ch/hec/syllabus/descriptif/2600?dyn_lang=fr) - septembre 2017 à février 2018: UNIL, MSc en Management, Spécialisation Business Analytics 
 
-
+{text-align: justify}</style>
