@@ -9,11 +9,12 @@ author_profile: true
 
 ### <h2> Charges administratives et bénévolat académique </h2>
 
+<ul>
 <li style="font-size:1.5vw"> J'ai servi de réviseur pour: [Applied Probability Trust](https://www.cambridge.org/core/societies/applied-probability-trust) </li>
 <li> [Séminaire du Département des Opérations](https://do-seminar-unil.github.io) - juin 2021 à aujourd'hui: en charge du séminaire pour la partie statistique et probabilités appliquées, avec [Valérie Chavez-Demoulin](https://hecnet.unil.ch/hec/recherche/fiche?pnom=vchavez&dyn_lang=fr) et [Linda Mhalla](https://lindamhalla.netlify.app) </li>
 <li> [Ecole doctorale en Statistique et Probabilités Appliquées (CUSO)](https://statistique.cuso.ch/accueil) - septembre 2021 à aujourd'hui: Représentant des doctorant.e.s de l'Université de Lausanne</li>
 <li> [Association du Corps Intermédiaire et des doctorant.e.s de l'Université de Lausanne](https://wp.unil.ch/acidul/) - décembre 2020 à décembre 2021: Président et membre du comité</li>
-
+</ul>
 ### Assistanats de cours 
 
 Au cours des dernières années, j'ai été assistant pour les cours suivants: 
