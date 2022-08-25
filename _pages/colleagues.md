@@ -2,6 +2,7 @@
 layout: home
 title: "Colleagues, friends and links" 
 permalink: /colleagues/
+author_profile: true
 ---
 
 [:fr: Cliquez ici pour la page en français](https://fabienbaeriswyl.fr/collegues)
