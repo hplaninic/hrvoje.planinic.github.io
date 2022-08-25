@@ -5,6 +5,7 @@ permalink: /collegues/
 ---
 
 [:uk: Click here for the page in English](https://fabienbaeriswyl.fr/colleagues)
+<style>body {text-align: justify}</style>
 
 ### Ami.e.s et collègues
 

@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 [:fr: Cliquez ici pour la page en français](https://fabienbaeriswyl.fr/conf/)
+<style>body {text-align: justify}</style>
 
 ### Conferences and workshops  
 

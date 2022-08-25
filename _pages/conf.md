@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 [:uk: Click here for the page in English](https://fabienbaeriswyl.fr/conf-en)
+<style>body {text-align: justify}</style>
 
 ### Conférences et colloques 
 
