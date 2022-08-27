@@ -108,6 +108,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll
+  jekyll-sitemap
   jemoji
   minimal-mistakes-jekyll
 
