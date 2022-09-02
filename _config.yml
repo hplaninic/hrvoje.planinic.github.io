@@ -118,7 +118,7 @@ author:
       url: "mailto:fabien.baeriswyl@unil.ch"
     - label: "Google Scholar"
       icon: "ai ai-google-scholar-square"
-      url: "https://your-website.com"
+      url: "https://scholar.google.com/citations?user=xSfL1WQAAAAJ&hl=fr&oi=ao"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
