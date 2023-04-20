@@ -18,5 +18,5 @@ author_profile: true
 
 ### Publications and ongoing projects
 
-- _Tail asymptotics and precise large deviations for some Poisson cluster processes_, submitted to Applied Probability Trust in April 2023, [HAL preprint](https://hal.science/hal-04071286), with [Valérie Chavez-Demoulin](https://hecnet.unil.ch/hec/recherche/fiche?pnom=vchavez&dyn_lang=en) and [Olivier Wintenberger](http://wintenberger.fr)
+- [_Tail asymptotics and precise large deviations for some Poisson cluster processes_](https://hal.science/hal-04071286), submitted to Applied Probability Trust in April 2023, with [Valérie Chavez-Demoulin](https://hecnet.unil.ch/hec/recherche/fiche?pnom=vchavez&dyn_lang=en) and [Olivier Wintenberger](http://wintenberger.fr)
 - _Modelling of heatwaves and dependence assessment_ (2020) (Master thesis, under the supervision of [Johanna Nešlehová](https://www.math.mcgill.ca/neslehova/)) 
