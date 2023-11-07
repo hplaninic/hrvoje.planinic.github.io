@@ -10,16 +10,19 @@ author_profile: true
 
 ### Charges administratives et bénévolat académique 
 
-- J'ai servi de réviseur pour: [Applied Probability Trust](https://www.cambridge.org/core/societies/applied-probability-trust) 
-- [Séminaire du Département des Opérations](https://do-seminar-unil.github.io) - juin 2021 à aujourd'hui: en charge du séminaire pour la partie statistique et probabilités appliquées, avec [Valérie Chavez-Demoulin](www.unil.ch/unisciences/valeriechavez)
+- J'ai servi de réviseur pour: [Applied Probability Trust](https://www.cambridge.org/core/societies/applied-probability-trust)
+- [Conseil de Faculté des HEC, Université de Lausanne](https://www.unil.ch/hec/fr/home/contact/conseil-de-faculte.html) - octobre 2023 à aujourd'hui: représentant du corps intermédiaire 
+- [Séminaire du Département des Opérations](https://do-seminar-unil.github.io) - juin 2021 à aujourd'hui: en charge du séminaire pour la partie statistique et probabilités appliquées, avec [Valérie Chavez-Demoulin](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1081431&LanCode=8)
 - [Ecole doctorale en Statistique et Probabilités Appliquées (CUSO)](https://statistique.cuso.ch/accueil) - septembre 2021 à aujourd'hui: Représentant des doctorant.e.s de l'Université de Lausanne
 - [Association du Corps Intermédiaire et des doctorant.e.s de l'Université de Lausanne](https://wp.unil.ch/acidul/) - décembre 2020 à décembre 2021: Président et membre du comité
+
 
 ### Assistanats de cours 
 
 Au cours des dernières années, j'ai été assistant pour les cours suivants: 
 
-- [Risk Analytics](https://hecnet.unil.ch/hec/syllabus/descriptif/2549) - septembre 2022 - à venir: UNIL, MSc en Management, Spécialisation Business Analytics 
+- [Statistique I](https://applicationspub.unil.ch/interpub/noauth/php/Ud/ficheCours.php?v_enstyid=90314&v_ueid=173&v_etapeid1=35270&v_langue=fr&v_isinterne=) - septembre 2023 - aujourd'hui: UNIL, BSc Economie et BSc Management
+- [Risk Analytics](https://hecnet.unil.ch/hec/syllabus/descriptif/2549) - septembre 2022 - aujourd'hui: UNIL, MSc en Management, Spécialisation Business Analytics 
 - [Quantitative Methods for Management](https://hecnet.unil.ch/hec/syllabus/descriptif/2220) - septembre 2020 à aujourd'hui: UNIL, MSc en Management, Spécialisation Business Analytics 
 - [Programming Tools in Data Science](https://hecnet.unil.ch/hec/syllabus/descriptif/2363?dyn_lang=fr) - septembre 2020 à février 2021: UNIL, MSc en Management, Spécialisation Business Analytics 
 - [MATH447 Introduction to Stochastic Processes](https://www.mcgill.ca/study/2021-2022/courses/math-447) - janvier 2020 à avril 2020: Université McGill, BSc Mathematics 
