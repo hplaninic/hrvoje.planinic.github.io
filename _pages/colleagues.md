@@ -12,10 +12,9 @@ author_profile: true
 
 Because research in applied mathematics cannot be thought of without interactions, discussions and great moments shared with colleagues and friends, I list below some interesting profiles I encountered and who contributed to either (re)define my interests, understand and put into perspectives some concepts or simply helped me to evolve along the way: 
 
-- [Maximilian Aigner](http://aignerstat.ch)
 - [Marc-Olivier Boldi](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1073453&LanCode=37&menu=coord)
 - [Gloria Buriticá](https://gburitica.github.io)
-- [Valérie Chavez-Demoulin](https://hecnet.unil.ch/hec/recherche/fiche?pnom=vchavez&dyn_lang=en)
+- [Valérie Chavez-Demoulin](www.unil.ch/unisciences/valeriechavez)
 - [Joseph de Vilmarest](https://josephdevilmarest.github.io)
 - [Louis Faul](https://www.unifr.ch/math/fr/department/staff/list/people/346786/46dd1)
 - [Céline Kerriou](https://sites.google.com/view/ckerriou/)
