@@ -14,7 +14,7 @@ Parce que la recherche en mathématiques appliquées ne peut se faire sans le co
 
 - [Marc-Olivier Boldi](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1073453&LanCode=37&menu=coord)
 - [Gloria Buriticá](https://gburitica.github.io)
-- [Valérie Chavez-Demoulin]([www.unil.ch/unisciences/valeriechavez](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1081431&LanCode=37))
+- [Valérie Chavez-Demoulin](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1081431&LanCode=37)
 - [Joseph de Vilmarest](https://josephdevilmarest.github.io)
 - [Louis Faul](https://www.unifr.ch/math/fr/department/staff/list/people/346786/46dd1)
 - [Céline Kerriou](https://sites.google.com/view/ckerriou/)
