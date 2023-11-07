@@ -20,7 +20,7 @@ author_profile: true
 
 I am and have been Teaching Assistant for the following courses over the last few years: 
 
-- [Statistique I](https://applicationspub.unil.ch/interpub/noauth/php/Ud/ficheCours.php?v_enstyid=90314&v_ueid=173&v_etapeid1=35270&v_langue=fr&v_isinterne=) - September 2023 - today: UNIL, BSc Economics and BSc Management
+- [Statistics I](https://applicationspub.unil.ch/interpub/noauth/php/Ud/ficheCours.php?v_enstyid=90314&v_ueid=173&v_etapeid1=35270&v_langue=fr&v_isinterne=) - September 2023 - today: UNIL, BSc Economics and BSc Management
 - [Risk Analytics](https://hecnet.unil.ch/hec/syllabus/descriptif/2549) - September 2022 - today: UNIL, MSc in Management, Business Analytics track
 - [Quantitative Methods for Management](https://hecnet.unil.ch/hec/syllabus/descriptif/2220) - September 2020 - today: UNIL, MSc in Management, Business Analytics track
 - [Programming Tools in Data Science](https://hecnet.unil.ch/hec/syllabus/descriptif/2363?dyn_lang=fr) - September 2020 - February 2021: UNIL, MSc in Management, Business Analytics track
