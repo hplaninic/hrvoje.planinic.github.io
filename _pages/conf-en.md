@@ -10,6 +10,9 @@ author_profile: true
 
 ### Conferences and workshops  
 
+- [Journées de Probabilités 2024](https://indico.math.cnrs.fr/event/11353/overview) - Institut de mathématiques de Bordeaux, Bordeaux, 10-14 june 2024: Presentation
+- [DYOGENE Seminar at Inria](https://www.di.ens.fr/dyogene/index.html) - Centre Inria, Paris, 6 May 2024: Presentation
+- [Rencontre des Jeunes Statisticien.ne.s 2024](https://rjs2024.sciencesconf.org) - Porquerolles, 31 March - 4 April 2024: Presentation 
 - [New Perspectives in the Theory of Extreme Values](https://web.math.pmf.unizg.hr/paagrv/dubrovnik-meeting-2023) - IUC Dubrovnik, 23-27 October 2023: Presentation
 - [EVA 2023](https://dec.unibocconi.eu/research/extreme-value-analysis-eva-2023) - Bocconi University, Milan, 26-30 June 2023: Presentation
 - [VALPRED 4](https://wintenberger.fr/VALPRED.html) - CNRS Centre, Aussois, 3-6 April 2023: Presentation
