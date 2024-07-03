@@ -13,8 +13,8 @@ author_profile: true
 - J'ai servi de réviseur pour: [Applied Probability Trust](https://www.cambridge.org/core/societies/applied-probability-trust), [Annals of Applied Statistics](https://imstat.org/journals-and-publications/annals-of-applied-statistics/)
 - [Conseil de Faculté des HEC, Université de Lausanne](https://www.unil.ch/hec/fr/home/contact/conseil-de-faculte.html) - octobre 2023 à aujourd'hui: représentant du corps intermédiaire 
 - [Séminaire du Département des Opérations](https://do-seminar-unil.github.io) - juin 2021 à aujourd'hui: en charge du séminaire pour la partie statistique et probabilités appliquées, avec [Valérie Chavez-Demoulin](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1081431&LanCode=8)
-- [Ecole doctorale en Statistique et Probabilités Appliquées (CUSO)](https://statistique.cuso.ch/accueil) - septembre 2021 à aujourd'hui: Représentant des doctorant.e.s de l'Université de Lausanne
-- [Association du Corps Intermédiaire et des doctorant.e.s de l'Université de Lausanne](https://wp.unil.ch/acidul/) - décembre 2020 à décembre 2021: Président et membre du comité
+- [Ecole doctorale en Statistique et Probabilités Appliquées (CUSO)](https://statistique.cuso.ch/accueil) - septembre 2021 à aujourd'hui: représentant des doctorant.e.s de l'Université de Lausanne
+- [Association du Corps Intermédiaire et des doctorant.e.s de l'Université de Lausanne](https://wp.unil.ch/acidul/) - décembre 2020 à décembre 2021: président et membre du comité
 
 
 ### Assistanats de cours 
