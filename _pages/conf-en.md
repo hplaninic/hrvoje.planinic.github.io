@@ -9,7 +9,8 @@ author_profile: true
 <style>body {text-align: justify}</style>
 
 ### Conferences and workshops to come
-- [VALPRED 5](http://wintenberger.fr/VALPRED.html) - CNRS Centre, Aussois, 16 - 19 December 2024: Presentation 
+- [VALPRED 5](http://wintenberger.fr/VALPRED.html) - CNRS Centre, Aussois, 16 - 19 December 2024: Presentation
+- [Congrès des Jeunes Chercheur.e.s en Mathématiques Appliquées](https://cjc-ma2024.sciencesconf.org/?lang=fr) - ENS Lyon, Lyon, 28-30 October 2024: Participant
 - [Hawkes Seminar](https://sites.google.com/site/charlottedionblanc/home/resarch/emergence-hawkes) - Sorbonne Université, Paris, 15 October 2024: Presentation
 - [CUSO Summer School](https://statistique.cuso.ch/?id=2688&tx_displaycontroller[showUid]=7108) - Anzère, 1-4 September 2024: Participant 
 - [Mathematics, Statistics, and Geometry of Extreme Events in High Dimensions
