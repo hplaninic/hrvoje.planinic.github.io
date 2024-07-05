@@ -28,3 +28,7 @@ Because research in applied mathematics cannot be thought of without interaction
 ### Links 
 
 Here are some websites and links that I find interesting: 
+
+- [(in French) A podcast by Cédric Villani (France Culture) on the influence of science on the world](https://www.radiofrance.fr/franceculture/podcasts/les-contes-des-mille-et-une-sciences)
+- [(in French) A pdocast by France Culture on the life of Alexandre Grothendieck](https://www.radiofrance.fr/franceculture/podcasts/serie-alexandre-grothendieck-legende-rebelle-des-mathematiques)
+- [A funny illustration of Skorokhod J1 metric using Ampelmann on Bojan Basrak's website](https://web.math.pmf.unizg.hr/~bbasrak/?Contact_%2F_Other_info:Skorohod_metric_J1) 
