@@ -28,3 +28,7 @@ Parce que la recherche en mathématiques appliquées ne peut se faire sans le co
 ### Liens
 
 Voici une liste de sites et de liens que je trouve particulièrement intéressants: 
+
+- [Un podcast de Cédric Villani sur France Culture dédié à l'influence de la science sur le monde au travers de certaines révolutions technologiques](https://www.radiofrance.fr/franceculture/podcasts/les-contes-des-mille-et-une-sciences)
+- [Un podcast par France Culture sur la vie d'Alexandre Grothendieck](https://www.radiofrance.fr/franceculture/podcasts/serie-alexandre-grothendieck-legende-rebelle-des-mathematiques)
+- [Une jolie illustration de la métrique J1 de Skorokhod sur le site de Bojan Basrak qui utilise l'Ampelmann](https://web.math.pmf.unizg.hr/~bbasrak/?Contact_%2F_Other_info:Skorohod_metric_J1) 
