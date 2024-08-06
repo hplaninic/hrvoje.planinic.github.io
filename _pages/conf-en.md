@@ -8,14 +8,6 @@ author_profile: true
 [:fr: Cliquez ici pour la page en français](https://fabienbaeriswyl.fr/conf/)
 <style>body {text-align: justify}</style>
 
-### Conferences and workshops to come
-- [VALPRED 5](http://wintenberger.fr/VALPRED.html) - CNRS Centre, Aussois, 16 - 19 December 2024: Presentation
-- [Congrès des Jeunes Chercheur.e.s en Mathématiques Appliquées](https://cjc-ma2024.sciencesconf.org/?lang=fr) - ENS Lyon, Lyon, 28-30 October 2024: Participant
-- [Hawkes Seminar](https://sites.google.com/site/charlottedionblanc/home/resarch/emergence-hawkes) - Sorbonne Université, Paris, 15 October 2024: Presentation
-- [Statistics and Applied Probability CUSO Summer School 2024](https://statistique.cuso.ch/?id=2688&tx_displaycontroller[showUid]=7108) - Anzère, 1-4 September 2024: Participant 
-- [Mathematics, Statistics, and Geometry of Extreme Events in High Dimensions
-](https://www.mfo.de/occasion/2434/www_view) - Mathematisches Forschungsinstitut Oberwolfach, Oberwolfach, 18-23 August 2024: Participant 
-
 ### Past conferences and workshops  
 - [Journées de Probabilités 2024](https://indico.math.cnrs.fr/event/11353/overview) - Institut de mathématiques de Bordeaux, Bordeaux, 10-14 June 2024: Presentation
 - [Rencontre des Jeunes Statisticien.ne.s 2024](https://rjs2024.sciencesconf.org) - Porquerolles, 31 March - 4 April 2024: Presentation
