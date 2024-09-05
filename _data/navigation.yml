@@ -1,13 +1,13 @@
 # main links
 main:
-  - title: "Publications"
+  - title: "Research"
     url: /publi/
-  - title: "Communications"
+  - title: "Teaching (in Croatian)"
     url: /conf/
-  - title: "A propos/About"
-    url: /apropos/
-  - title: "Collègues, liens, divers"
-    url: /collegues/
+  -# title: "A propos/About"
+   # url: /apropos/
+  -# title: "Collègues, liens, divers"
+   # url: /collegues/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
